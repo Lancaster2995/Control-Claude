@@ -1,5 +1,5 @@
 // Minimal service worker required for PWA installability on Chrome/Android.
-const CACHE_NAME = 'gmail-claude-manager-v1';
+const CACHE_NAME = 'gmail-claude-manager-v2';
 const ASSETS_TO_CACHE = [
   './index.html'
 ];
